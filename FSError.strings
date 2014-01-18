@@ -1,0 +1,12 @@
+/* 
+  FSError.strings
+  NewsHack
+
+  Created by Wolfgang Schreurs on 12/29/12.
+  Copyright (c) 2012 Wolfgang Schreurs. All rights reserved.
+*/
+
+"1003" = "Invalid username or password.";
+"1004" = "Failed to parse FNID.";
+"1005" = "Too many new accounts.";
+"1009" = "Product purchase cancelled by user.";
