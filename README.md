@@ -8,5 +8,7 @@ An application for scraping the HackerNews website and displaying it in a more r
 The code might be useful for aspiring iOS developers as it teaches:
 - Good Objective-C style (prefixes, method and parameter names, etc...)
 - Speedy table view drawing for the comments view by drawing directly on the canvas instead of using lots of views.
-- A nice way of handling errors (check out FSError.h)
+- A nice way of handling errors ([I've documented my approach in this StackOverflow post][0])
 - Implementing In-App purchases.
+
+[0]: http://stackoverflow.com/questions/4654653/how-can-i-use-nserror-in-my-iphone-app/14086231#14086231
